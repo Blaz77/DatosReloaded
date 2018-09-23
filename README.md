@@ -10,4 +10,4 @@
 - Realizar análisis exploratorio
 - Preparar informe
 
-**Entrega:** xx xxxx 2018
+**Entrega:** 24 septiembre 2018
