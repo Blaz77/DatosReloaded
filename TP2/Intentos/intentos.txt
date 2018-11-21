@@ -1,6 +1,6 @@
 Lista de intentos (submits) y explicacion de algoritmo utilizado (Va a servir para el informe)
 
 Intento - Descripcion - Score
-1 - Baseline. KNN con K=4 (Tomado con pruebas simples) - 
-2 - 
+1 - Baseline. KNN con K=4 (Tomado con pruebas simples) - 0.57545
+2 - KNN con K=11 (Tomado iterando K impares hasta 30 y haciendo cross-validation) - 
 3 - 
