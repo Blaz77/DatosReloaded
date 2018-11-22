@@ -2,5 +2,5 @@ Lista de intentos (submits) y explicacion de algoritmo utilizado (Va a servir pa
 
 Intento - Descripcion - Score
 1 - Baseline. KNN con K=4 (Tomado con pruebas simples) - 0.57545
-2 - KNN con K=11 (Tomado iterando K impares hasta 30 y haciendo cross-validation) - 
-3 - 
+2 - KNN con K=11 (Tomado iterando K impares hasta 30 y haciendo cross-validation) - 0.64
+3 - Random Forests con 33 arboles (Sin factorizar matrices) - 0.73354
