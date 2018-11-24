@@ -4,3 +4,6 @@ Intento - Descripcion - Score
 1 - Baseline. KNN con K=4 (Tomado con pruebas simples) - 0.57545
 2 - KNN con K=11 (Tomado iterando K impares hasta 30 y haciendo cross-validation) - 0.64
 3 - Random Forests con 33 arboles (Sin factorizar matrices) - 0.73354
+4 - Random Forest con 50 arboles para clasificar y 500 para predecir (sin factorizar) - 0.78
+5 - Random Forest con 50 arboles para clasificar y 500 para predecir (factorizando la matriz) = 0.63. No le gusto la prediccion de features
+6 - Xgboost estandar sin modificar los atributos basicos de algoritmo - 0.80381
