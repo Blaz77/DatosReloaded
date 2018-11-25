@@ -9,3 +9,4 @@ Intento - Descripcion - Score
 6 - Xgboost estandar sin modificar los atributos basicos de algoritmo - 0.80381
 7 - Xgboost aplicando reg:logistic para clasificar bajo el score - 0.800
 8 - Xgboost con features de visitas del ultimo mes y semana y checkouts de la ultima semana - 0.82194
+9 - Xgboost agregando feature de tasa de conversiones / visitas - 0.82421
