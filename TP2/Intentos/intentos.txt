@@ -8,3 +8,4 @@ Intento - Descripcion - Score
 5 - Random Forest con 50 arboles para clasificar y 500 para predecir (factorizando la matriz) = 0.63. No le gusto la prediccion de features
 6 - Xgboost estandar sin modificar los atributos basicos de algoritmo - 0.80381
 7 - Xgboost aplicando reg:logistic para clasificar bajo el score - 0.800
+8 - Xgboost con features de visitas del ultimo mes y semana y checkouts de la ultima semana - 0.82194
