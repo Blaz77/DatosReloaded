@@ -11,3 +11,4 @@ Intento - Descripcion - Score
 8 - Xgboost con features de visitas del ultimo mes y semana y checkouts de la ultima semana - 0.82194
 9 - Xgboost agregando feature de tasa de conversiones / visitas - 0.82421
 10 - Xgboost modificando parametros segun cross-validation - 0.83108
+11 - Xgboost con cv, agrego de fatures de cantidad de returnings a la pagina - 0.83211
