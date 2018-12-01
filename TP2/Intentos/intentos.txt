@@ -12,3 +12,4 @@ Intento - Descripcion - Score
 9 - Xgboost agregando feature de tasa de conversiones / visitas - 0.82421
 10 - Xgboost modificando parametros segun cross-validation - 0.83108
 11 - Xgboost con cv, agrego de fatures de cantidad de returnings a la pagina - 0.83211
+12 - Xgboost con cv, agrego features de cantidad de dias desde la ultima conversion, checkout y visita - 0.86608
